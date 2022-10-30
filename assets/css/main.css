@@ -186,9 +186,16 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 auto;
 }
 
-.section__bilet6 {
+.section__lab3 {
     font-family: 'Roboto', sans-serif;
     background-color: rgb(73, 199, 131);
+    padding: 100px 0;
+    margin: 0 auto;
+}
+
+.section__bilet6 {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(255, 255, 255);
     padding: 100px 0;
     margin: 0 auto;
 }
