@@ -31,4 +31,5 @@ JS
 ### Билет №6
 
 Ответ на экзаменационный билет: [Билет №6](https://github.com/stankin/inet-2022/wiki/exam06)
+
 Ответ на билет №6: [Разница Ревизий](https://github.com/stankin/inet-2022/wiki/exam06/_compare/71c429c590655c9f917f145ae021c39e0d934559)
