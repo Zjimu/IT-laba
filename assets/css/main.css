@@ -210,3 +210,15 @@ h1, h2, h3, h4, h5, h6 {
     text-shadow: 0 0 1px  #FF4500;
     text-decoration: none;
 }
+
+.section_img {
+    display: flex;
+    justify-self:center;
+    width: 100%;
+    height: 500px;
+}
+
+.img {
+    height: 100%;
+    width: auto;
+}
